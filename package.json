@@ -1,13 +1,19 @@
 {
   "name": "ember-secure-localstorage",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Helpful utilities for data encryption in localstorage. Useful for end-to-end applications.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "end-to-end",
+    "crypto",
+    "localstorage",
+    "security",
+    "ember-data",
+    "secure-ls"
   ],
-  "repository": "",
+  "repository": "https://github.com/mileszim/ember-secure-localstorage",
   "license": "MIT",
-  "author": "",
+  "author": "Miles Zimmerman <mileszim@protonmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"

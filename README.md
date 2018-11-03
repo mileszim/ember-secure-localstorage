@@ -1,7 +1,7 @@
 ember-secure-localstorage
 ==============================================================================
 
-[Short description of the addon.]
+Helpful utilities for data encryption in localstorage. Useful for end-to-end applications.
 
 Installation
 ------------------------------------------------------------------------------
